@@ -29,7 +29,5 @@ Basta executar o script de deploy:
 
 ```bash
 ./script.sh
-
----
-
+   ```
 Projeto criado como parte do aprendizado no Bootcamp DIO – **DevOps Deploy com K8s**.
